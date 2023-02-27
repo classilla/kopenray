@@ -1,3 +1,9 @@
+# Equipment help!
+
+We're looking for a replacement Accutech Gobi (7 or 8) for additional development work, since our units have failed. The Gobi in particular is desirable because it has some unusual attributes I had to hack around in kOpenRay.
+
+If you have an Accutech Gobi laptop (Gobi7 or Gobi8) you're willing to part with or sell, please contact us! You can help support the project! We have the power supply and batteries already. Send E-mail to ckaiser at floodgap dawt com (located in United States).
+
 # kOpenRay
 
 kOpenRay is a fork of _[jOpenRay](http://www.jopenray.org/)_, an open-source Java server for [SunRay 2](https://en.wikipedia.org/wiki/Sun_Ray) devices. Unfortunately, jOpenRay hasn't been updated since 2010 (though there have been [modest attempts](https://github.com/collegiumv/jopenray), some of which is in this codebase), and it has various issues with newer SunRay hardware and later JDKs. kOpenRay is a possibly intermittently potentially incompletely successful attempt to fix these problems.
