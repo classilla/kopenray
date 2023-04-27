@@ -1,12 +1,6 @@
-# Equipment help!
-
-We're looking for a replacement Accutech Gobi (7 or 8) for additional development work, since our units have failed. The Gobi in particular is desirable because it has some unusual attributes I had to hack around in kOpenRay.
-
-If you have an Accutech Gobi laptop (Gobi7 or Gobi8) you're willing to part with or sell, please contact us! You can help support the project! We have the power supply and batteries already. Send E-mail to ckaiser at floodgap dawt com (located in United States).
-
 # kOpenRay
 
-kOpenRay is a fork of _[jOpenRay](http://www.jopenray.org/)_, an open-source Java server for [SunRay 2](https://en.wikipedia.org/wiki/Sun_Ray) devices. Unfortunately, jOpenRay hasn't been updated since 2010 (though there have been [modest attempts](https://github.com/collegiumv/jopenray), some of which is in this codebase), and it has various issues with newer SunRay hardware and later JDKs. kOpenRay is a possibly intermittently potentially incompletely successful attempt to fix these problems.
+kOpenRay is a fork of _[jOpenRay](http://www.jopenray.org/)_, an open-source Java server for [Sun Ray 2](https://en.wikipedia.org/wiki/Sun_Ray) devices. Unfortunately, jOpenRay hasn't been updated since 2010 (though there have been [modest attempts](https://github.com/collegiumv/jopenray), some of which is in this codebase), and it has various issues with newer SunRay hardware and later JDKs. kOpenRay is a possibly intermittently potentially incompletely successful attempt to fix these problems.
 
 Like jOpenRay, kOpenRay runs anywhere Java does (including Windows, macOS, Linux and Solaris), and is free and open-source under the GNU Public License. This version of kOpenRay is only suitable for exploratory use on a secured LAN and should not be used on a production external-facing interface.
 
@@ -23,7 +17,7 @@ See `README.md` in `assets/` (or in any release build).
 ### What's new
 
   - Requires Java 1.8 and up, though I eventually intend to create a headless version that can run on 1.5. The code probably still builds on 1.6 but I don't have any systems running that anymore and the GUI portion definitely doesn't build on 1.5 yet.
-  - Tested on the Tadpole/General Dynamics M1400 SunRay laptop, the Accutech Gobi7 SunRay laptop and the Accutech Gobi8 SunRay laptop.
+  - Tested on the Tadpole/General Dynamics M1400 SunRay laptop, the Accutech Gobi7 SunRay laptop, the Accutech Gobi8 SunRay laptop and the Sun Ray 2N laptop.
 
 ### What's better
 
